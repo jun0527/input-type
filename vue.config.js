@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/type-test'
+  publicPath: '/input-type'
 }
